@@ -1,0 +1,9 @@
+prefix=C:/Users/91964/OneDrive/Desktop/GENAI_SQL/langchain_env/Library 
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: OpenSSL
+Description: Secure Sockets Layer and cryptography libraries and tools
+Requires: libssl libcrypto
+Version: 3.0.16 
